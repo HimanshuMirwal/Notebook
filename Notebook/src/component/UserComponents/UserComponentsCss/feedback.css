@@ -1,0 +1,21 @@
+.row-background{
+    background: white;
+    padding: 2% 5% 2% 5%;
+}
+.feedback-heading{
+    color: #efb960;
+    border-bottom: 2px solid;
+    text-align: center;
+    font-size: 3rem;
+    font-weight: bold;
+    padding: 2%;
+}
+.form-div{
+    padding: 2%;
+}
+.form-group-content{
+    padding: 1%;
+    font-size: 1rem;
+    font-weight: bold;
+    color: #efb960;
+}

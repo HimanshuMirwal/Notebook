@@ -1,0 +1,64 @@
+
+.navbar-padding{
+    padding:2% 5% 2% 5%;
+}
+.navbar-brand{
+    font-size: 2rem;
+    color: whitesmoke;
+    font-weight: bold;
+}
+.navbar-brand:hover{
+    font-size: 2rem;
+    color: whitesmoke;
+    font-weight: bold;
+}
+.navbar-link{
+    color: white;
+}
+.nav-button-styles{
+    border-color: whitesmoke;
+    text-transform: uppercase;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 700;
+    color: #efb960;
+    background-color: white;
+}
+.navbar-toggler-icon {
+    display: inline-block;
+    color: #efb960;
+    width: 1.5em;
+    height: 1.5em;
+    vertical-align: middle;
+    content: "";
+    background: no-repeat center center;
+    background-size: 100% 100%;
+}
+.navbar-background{
+    background: #efb960;
+}
+.navbar-ul-div Link{
+    color: whitesmoke;
+    font-size: 15px;
+}
+.navbar-ul-li .navbar-link:hover{
+    border-bottom: 1px solid white;
+    color: white;
+}
+@media (max-width: 992px) {
+    .navbar-ul{
+        margin:auto ;
+        text-align: center;
+    }
+    .navbar-ul-li{
+        text-decoration: none;
+    }
+    .navbar-ul-li:hover{
+        text-decoration: none;
+    }
+}
+.navbar-admin-form{
+    background-color: #efb860;
+}
+.logo-image{
+    height:90px;
+}

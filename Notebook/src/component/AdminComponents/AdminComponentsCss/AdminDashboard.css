@@ -1,0 +1,47 @@
+.LinksForOptions{
+    text-decoration: none;
+    color:whitesmoke ;
+    font-size: 20px;
+    list-style-type: none;
+}
+
+.sidenav {
+    height: 100%;
+    width: 250px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    right:0;
+    background-color: #2475B0;
+    overflow-x: hidden;
+    padding:2%;
+}
+
+.headingBrand{
+      color: #2475B0;
+  }
+.heading-div{
+      padding: 2% 5%;
+}
+.heading-div-welcome{
+    padding: 2% 5%;
+}
+.heading-div h2{
+    font-size: 7rem;
+}
+.ul-padding-none{
+    position: absolute;
+    top: 1%;
+    padding: 1%;
+}
+
+.toggler-button{
+    border-color: #2475B0;
+    text-transform: uppercase;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 700;
+    color: white;
+    font-size: 30px;
+    background-color:#2475B0 ;
+
+}

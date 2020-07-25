@@ -1,0 +1,19 @@
+.row-background-color{
+    background: #efb960;
+    text-align: center;
+}
+.About-heading{
+    color: whitesmoke;
+    font-size: 3rem;
+    font-weight: bold;
+    padding: 2%;
+}
+.about-description-padding{
+    padding: 2% 14%;
+    font-weight: bold;
+    font-weight: 700;
+    font-size: 1.5rem;
+}
+.button-margin{
+    margin: 5%;
+}

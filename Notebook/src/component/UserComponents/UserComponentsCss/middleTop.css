@@ -1,0 +1,55 @@
+.row-div{
+    background-image: url("https://images.unsplash.com/photo-1507842217343-583bb7270b66?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=853&q=80");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 900px;
+  width: 100%;
+}
+.row-padding{
+    padding: 0 5% 0 5%;
+    margin: 0;
+}
+.col-div{
+  background: rgba(0, 0, 0, 0.562);
+  margin: 5% auto 5% auto;
+  border: 2px solid whitesmoke;
+  text-align: center;
+}
+.heading-middle-col{
+  color: whitesmoke;
+  font-size: 4rem;
+  /* border-top: 2px solid;
+  border-bottom: 2px solid; */
+  margin-top: 5%;
+  padding-bottom: 1% ;
+}
+.quote-middle{
+  color: whitesmoke;
+  font-size: 10px;
+  font-weight: bold;
+  font-family: Helvetica;
+  font-size: 1.2rem;
+}
+.quote-middle-div{
+  height: auto;
+  width: 31%;
+  margin: 5% auto 4% auto;
+  color: #efb960;
+  border: 2px solid;
+  padding: 5%;
+}
+.quote-middle-div h3{
+border-bottom:2px solid ;
+}
+@media(max-width: 990px){
+  .quote-middle-div{
+    height: auto;
+    width: 90%;
+    margin: 2% auto 4% auto;
+    color: #efb960;
+    border: 2px solid;
+    padding: 20%;
+  }
+}

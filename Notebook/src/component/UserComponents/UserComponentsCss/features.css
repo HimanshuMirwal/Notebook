@@ -1,0 +1,36 @@
+.feature-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding: 2%;
+}
+  
+  /* middle icons */
+  .colors-icon {
+    color: #efb860ea;
+    margin: auto;
+    margin-bottom: 1rem;
+  }
+  .colors-icon:hover {
+    color: #efb960;
+  }
+  #features {
+    position: relative;
+  }
+  /* fearure custom class middle section icons text*/
+  .feature-box {
+    padding: 2% 3%;
+    text-align: center;
+  }
+  .feature-box:hover{
+      border-bottom: 2px solid #efb960;
+  }
+  .feature-heading-title{
+    font-size: 3rem;
+    text-align: center;
+    font-weight: bold;
+    border-bottom: 2px solid #efb960;
+  }
+  
+.row-div-features{
+    padding: 2% 5% 2% 5%;
+}
